@@ -20,3 +20,13 @@ I believe that great progress in academia comes from open conversations and shar
 
 🔗 **Personal Academic Page:** [error666.top/academicPages](https://error666.top/academicPages/)  
 📝 **Personal Blog:** [error666.top](https://error666.top/)
+
+<div align="left">
+  <a href="https://github.com/HugoPhi" target="_blank">
+    < img src="https://github.com/potatoQi.png" width="50" height="50" alt="Friend 1" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
+  </a >
+  <a href="https://github.com/zmr66z6xx6" target="_blank">
+    < img src="https://github.com/zmr66z6xx6.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
+  </a >
+  <!-- 继续添加其他朋友 -->
+</div>
