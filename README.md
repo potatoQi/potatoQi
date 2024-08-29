@@ -14,3 +14,9 @@
 - Studying Mathematics 📚  
 
 I believe that great progress in academia comes from open conversations and sharing ideas. 💬 If you have any thoughts, suggestions, or different views on my work, I’d love to hear from you! 🌟
+
+✉️ **Preferred Email:** [qixingzhou1125@outlook.com](mailto:qixingzhou1125@outlook.com)  
+📧 **Alternate Email:** [qixingzhou1125@qq.com](mailto:qixingzhou1125@qq.com)  
+
+🔗 **Personal Academic Page:** [error666.top/academicPages](https://error666.top/academicPages/)  
+📝 **Personal Blog:** [error666.top](https://error666.top/)
