@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Error_666!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-## I'm a **Computer Science and Technology** student from the 2022 class at **Chongqing University**! 🎓
+### I'm a **Computer Science and Technology** student from the 2022 class at **Chongqing University**! 🎓
 
 🔍 **Areas of Interest:**  
 - Distributed Optimization Algorithms 🌐
