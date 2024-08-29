@@ -21,14 +21,12 @@ I believe that great progress in academia comes from open conversations and shar
 🔗 **Personal Academic Page:** [error666.top/academicPages](https://error666.top/academicPages/)  
 📝 **Personal Blog:** [error666.top](https://error666.top/)
 
-<hr style="border: 1px solid #ddd;" />
+<hr style="border: 0.5px solid #ddd;" />
 
 🧮 **Mathematics Learning Repository:**
 
 - [ ] 📂 [Linear Algebra](https://gitee.com/Error_666/linear-algebra) - In Progress
 - [ ] 📂 [Matrix Theory]() - Not started
-
-<hr style="border: 1px solid #ddd;" />
 
 ## 👥 Friends
 <div align="left">
