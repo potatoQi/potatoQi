@@ -21,7 +21,7 @@ I believe that great progress in academia comes from open conversations and shar
 🔗 **Personal Academic Page:** [error666.top/academicPages](https://error666.top/academicPages/)  
 📝 **Personal Blog:** [error666.top](https://error666.top/)
 
-<hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;" />
+---
 
 🧮 **Mathematics Learning Repository:**
 
