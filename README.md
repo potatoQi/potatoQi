@@ -25,7 +25,10 @@ I believe that great progress in academia comes from open conversations and shar
 
 🧮 **Mathematics Learning Repository:**
 
-- [x] 📂 [Linear Algebra](https://gitee.com/Error_666) - Completed 
+- [ ] 📂 [Linear Algebra](https://gitee.com/Error_666) - In Progress
+- [ ] 📂 [Matrix Theory]() - Not started
+
+---
 
 ## 👥 Friends
 <div align="left">
