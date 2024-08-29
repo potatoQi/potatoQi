@@ -27,6 +27,7 @@ I believe that great progress in academia comes from open conversations and shar
 
 - [ ] 📂 [Linear Algebra](https://gitee.com/Error_666/linear-algebra) - In Progress
 - [ ] 📂 [Matrix Theory]() - Not started
+- [ ] 📂 [Convex optimization]() - Not started
 
 ## 👥 Friends
 <div align="left">
