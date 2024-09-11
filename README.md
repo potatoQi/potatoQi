@@ -21,14 +21,6 @@ I believe that great progress in academia comes from open conversations and shar
 🔗 **Personal Academic Page:** [error666.top/academicPages](https://error666.top/academicPages/)  
 📝 **Personal Blog:** [error666.top](https://error666.top/)
 
----
-
-🧮 **Mathematics Learning Repository:**
-
-- [ ] 📂 [Linear Algebra](https://gitee.com/Error_666/linear-algebra) - In Progress
-- [ ] 📂 [Matrix Theory]() - Not started
-- [ ] 📂 [Convex optimization]() - Not started
-
 ## 👥 Friends
 <div align="left">
   <a href="https://github.com/HugoPhi" target="_blank">
