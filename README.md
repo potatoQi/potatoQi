@@ -6,7 +6,7 @@
 
 🔍 **Areas of Interest:**  
 - Distributed Optimization Algorithms 🌐
-- Large Language Models 🧠
+- Reinforcement learning 🧠
 
 🎵 **Hobbies:**  
 - Playing the Piano 🎹  
