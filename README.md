@@ -26,7 +26,7 @@ I believe that great progress in academia comes from open conversations and shar
   <a href="https://github.com/HugoPhi" target="_blank">
     <img src="https://github.com/HugoPhi.png" width="50" height="50" alt="Friend 1" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
-  <a href="https://github.com/zmr66z6xx6" target="_blank">
+  <a href="https://github.com/Mengren Zhen" target="_blank">
     <img src="https://github.com/zmr66z6xx6.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
   <!-- 继续添加其他朋友 -->
