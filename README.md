@@ -6,7 +6,7 @@
 
 🔍 **Areas of Interest:**  
 - Distributed Optimization Algorithms 🌐
-- Reinforcement learning 🧠
+- Embodied AI / Deep Reinforcement Learning 🧠
 
 🎵 **Hobbies:**  
 - Playing the Piano 🎹  
