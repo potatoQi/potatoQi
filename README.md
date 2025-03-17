@@ -8,7 +8,7 @@
   - Distributed Optimization Algorithms 🌐
 - 🎹 Hobbies & Music:
   - I enjoy playing the piano.
-  - I love electronic music (especially The Chansmokers).
+  - I love electronic music (especially The Chainsmokers).
   - I also enjoy composing 🎼, long-distance running 🏃, and learning mathematics 📚.
 - 📝 Motto: Work hard, Be nice (努力工作，待人友善 in Chinese).
 
