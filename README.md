@@ -7,7 +7,8 @@
 - Memory-Augmented Neural Networks 🧠
 - Distributed Optimization Algorithms 🌐
 
-📝 My favorite motto is _Work hard, Be nice_ (努力工作，待人友善 in Chinese).
+- 🎹 I enjoy playing the piano with electronic sounds (especially The Chansmokers). I also enjoy composing, long-distance running, and learning mathematics.
+- 📝 My favorite motto is _Work hard, Be nice_ (努力工作，待人友善 in Chinese).
 
 I believe that great progress in academia comes from open conversations and sharing ideas. 💬 If you have any thoughts, suggestions, or different views on my work, I’d love to hear from you! 🌟
 
