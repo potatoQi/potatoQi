@@ -3,8 +3,8 @@
 ### I'm a **Computer Science and Technology** student from the 2022 class at **Chongqing University**! 🎓
 
 - 🔍 Areas of Interest:
-  - Embodied AI 🤖
-  - Memory-Augmented Neural Networks 🧠
+  - Generative model 🧠
+  - Reinforcement learning 🤖
   - Distributed Optimization Algorithms 🌐
 - 🎹 Hobbies & Music:
   - I enjoy playing the piano.
