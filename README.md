@@ -4,8 +4,7 @@
 
 - 🔍 Areas of Interest:
   - Generative model
-  - Reinforcement learning
-  - Distributed Optimization Algorithms
+  - Agent
 - 🎹 Hobbies & Music:
   - I enjoy playing the piano.
   - I love electronic music (especially The Chainsmokers).
