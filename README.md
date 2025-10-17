@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://potatoQi.github.io/">Qixing Zhou</a> (potatoQi)</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://error666.top">Qixing Zhou</a> (potatoQi)</h1>
 
 I’m an undergraduate in Computer Science (Class of 2022, Chongqing University).
 
