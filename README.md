@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm <a href="https://potatoQi.github.io/">Qixing Zhou</a> (potatoQi)</h1>
 
-### I'm a **Computer Science and Technology** student from the 2022 class at **Chongqing University**! 🎓
+I’m an undergraduate in Computer Science (Class of 2022, Chongqing University).
 
-- 🔍 Areas of Interest:
-  - Generative model
-  - Agent
-- 🎹 Hobbies & Music:
-  - I enjoy playing the piano.
-  - I love electronic music (especially The Chainsmokers).
-  - I also enjoy composing 🎼, long-distance running, and learning mathematics.
-- 📝 Motto: Work hard, Be nice (努力工作，待人友善 in Chinese).
+Curiosity drives me — I’m fascinated by intelligence, creation, and everything that genuinely excites me.
 
-I believe that great progress in academia comes from open conversations and sharing ideas. If you have any thoughts, suggestions, or different views on my work, I’d love to hear from you!
+I like to think, build, and question.
+Sometimes I code, sometimes I write, sometimes I just stare at problems until they make sense.
+
+My interests orbit around **generative models, agents, and how technology can truly empower real life**.
+
+Outside of research, I play the piano, run long distances, and make music when ideas overflow.
+
+Motto: Work hard, stay kind, and stay curious.
 
 ## 👥 Friends
 <div align="left">
