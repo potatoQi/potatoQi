@@ -4,10 +4,7 @@ I’m an undergraduate in Computer Science (Class of 2022, Chongqing University)
 
 Curiosity drives me — I’m fascinated by intelligence, creation, and everything that genuinely excites me.
 
-I like to think, build, and question.
-Sometimes I code, sometimes I write, sometimes I just stare at problems until they make sense.
-
-My interests orbit around **generative models, agents, and how technology can truly empower real life**.
+Interested in **generative models, agents, and building systems that turn ideas into working reality**.
 
 Outside of research, I play the piano, run long distances, and make music when ideas overflow.
 
