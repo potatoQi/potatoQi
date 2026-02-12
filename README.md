@@ -21,8 +21,8 @@ Motto: Work hard, stay kind, and stay curious.
   <a href="https://github.com/knightnemo" target="_blank">
     <img src="https://github.com/knightnemo.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
-  <a href="https://github.com/bamChil" target="_blank">
-    <img src="https://github.com/bamChil.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
+  <a href="https://github.com/jiachengzhang" target="_blank">
+    <img src="https://github.com/jiachengzhang.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
   </a>
   <!-- 继续添加其他朋友 -->
 </div>
