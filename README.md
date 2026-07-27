@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://error666.top">Qixing Zhou</a> (potatoQi)</h1>
 
-I’m an undergraduate in Computer Science (Class of 2022, Chongqing University).
+I’m a PhD student at Nanjing University.
 
 Curiosity drives me — I’m fascinated by intelligence, creation, and everything that genuinely excites me.
 
