@@ -8,19 +8,3 @@ Outside of research, I play the piano, run long distances, and make music when i
 
 Motto: Work hard, stay kind, and stay curious.
 
-## 👥 Friends
-<div align="left">
-  <a href="https://github.com/HugoPhi" target="_blank">
-    <img src="https://github.com/HugoPhi.png" width="50" height="50" alt="Friend 1" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <a href="https://github.com/MonrenZheng" target="_blank">
-    <img src="https://github.com/MonrenZheng.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <a href="https://github.com/knightnemo" target="_blank">
-    <img src="https://github.com/knightnemo.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <a href="https://github.com/jiachengzhg" target="_blank">
-    <img src="https://github.com/jiachengzhg.png" width="50" height="50" alt="Friend 2" style="border-radius: 50%; display: inline-block; border: 2px solid black;" />
-  </a>
-  <!-- 继续添加其他朋友 -->
-</div>
