@@ -8,13 +8,13 @@ Outside of research, I play the piano, run long distances, and make music when i
 
 Motto: Work hard, stay kind, and stay curious.
 
-## Research
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/flask-conical-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/flask-conical-light.svg" /><img src="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/flask-conical-light.svg" width="24" height="24" align="top" alt="" /></picture> Research</h2>
 
 <p>
 <a href="https://github.com/LiberCoders/FeatureBench"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/cards/FeatureBench-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/cards/FeatureBench-light.svg" /><img width="47%" align="top" src="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/cards/FeatureBench-light.svg" alt="FeatureBench" /></picture></a>
 </p>
 
-## Products
+<h2><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/rocket-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/rocket-light.svg" /><img src="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/rocket-light.svg" width="24" height="24" align="top" alt="" /></picture> Products</h2>
 
 <p>
 <a href="https://github.com/potatoQi/HarborStar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/cards/HarborStar-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/cards/HarborStar-light.svg" /><img width="47%" align="top" src="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/cards/HarborStar-light.svg" alt="HarborStar" /></picture></a>&nbsp;&nbsp;
