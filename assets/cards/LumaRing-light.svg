@@ -9,6 +9,6 @@
 <text x="24" y="86" font-size="15" fill="#59636e">macOS.</text>
 <circle cx="30.0" cy="119" r="6" fill="#f05138"/>
 <text x="44.0" y="124" font-size="14" fill="#59636e">Swift</text>
-<g transform="translate(96,110)" fill="none" stroke="#9a6700" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 1.5 11.3 6.2 16.5 7 12.7 10.7 13.6 16 9 13.5 4.4 16 5.3 10.7 1.5 7 6.7 6.2Z"/></g>
-<text x="120" y="124" font-size="14" fill="#59636e">15</text>
+<g transform="translate(96.3438,110)" fill="none" stroke="#9a6700" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 1.5 11.3 6.2 16.5 7 12.7 10.7 13.6 16 9 13.5 4.4 16 5.3 10.7 1.5 7 6.7 6.2Z"/></g>
+<text x="120.344" y="124" font-size="14" fill="#59636e">15</text>
 </svg>

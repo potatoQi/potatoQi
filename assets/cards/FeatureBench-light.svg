@@ -10,8 +10,8 @@
 <text x="24" y="108" font-size="15" fill="#59636e">Development&quot;</text>
 <circle cx="30.0" cy="141" r="6" fill="#3572a5"/>
 <text x="44.0" y="146" font-size="14" fill="#59636e">Python</text>
-<g transform="translate(110,132)" fill="none" stroke="#9a6700" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 1.5 11.3 6.2 16.5 7 12.7 10.7 13.6 16 9 13.5 4.4 16 5.3 10.7 1.5 7 6.7 6.2Z"/></g>
-<text x="134" y="146" font-size="14" fill="#59636e">92</text>
-<g transform="translate(172,132)" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="4" cy="3.5" r="2"/><circle cx="14" cy="3.5" r="2"/><circle cx="9" cy="15" r="2"/><path d="M4 5.5v2A2.5 2.5 0 0 0 6.5 10H9m5-4.5v2a2.5 2.5 0 0 1-2.5 2.5H9v3"/></g>
-<text x="196" y="146" font-size="14" fill="#59636e">13</text>
+<g transform="translate(109.578,132)" fill="none" stroke="#9a6700" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 1.5 11.3 6.2 16.5 7 12.7 10.7 13.6 16 9 13.5 4.4 16 5.3 10.7 1.5 7 6.7 6.2Z"/></g>
+<text x="133.578" y="146" font-size="14" fill="#59636e">92</text>
+<g transform="translate(171.141,132)" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="4" cy="3.5" r="2"/><circle cx="14" cy="3.5" r="2"/><circle cx="9" cy="15" r="2"/><path d="M4 5.5v2A2.5 2.5 0 0 0 6.5 10H9m5-4.5v2a2.5 2.5 0 0 1-2.5 2.5H9v3"/></g>
+<text x="195.141" y="146" font-size="14" fill="#59636e">13</text>
 </svg>
