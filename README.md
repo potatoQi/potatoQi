@@ -11,30 +11,12 @@ Motto: Work hard, stay kind, and stay curious.
 ## Research
 
 <p>
-  <a href="https://github.com/LiberCoders/FeatureBench">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;description_lines_count=3&amp;theme=dark_github_repocard" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;description_lines_count=3&amp;theme=light_github_repocard" />
-      <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;description_lines_count=3&amp;theme=light_github_repocard" alt="FeatureBench" />
-    </picture>
-  </a>
+<a href="https://github.com/LiberCoders/FeatureBench"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;card_width=480&amp;description_lines_count=3&amp;theme=dark_github_repocard" /><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;card_width=480&amp;description_lines_count=3&amp;theme=light_github_repocard" /><img width="47%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;card_width=480&amp;description_lines_count=3&amp;theme=light_github_repocard" alt="FeatureBench" /></picture></a>
 </p>
 
 ## Products
 
 <p>
-  <a href="https://github.com/potatoQi/HarborStar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;description_lines_count=3&amp;theme=dark_github_repocard" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;description_lines_count=3&amp;theme=light_github_repocard" />
-      <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;description_lines_count=3&amp;theme=light_github_repocard" alt="HarborStar" />
-    </picture>
-  </a>
-  <a href="https://github.com/potatoQi/LumaRing">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;description_lines_count=3&amp;theme=dark_github_repocard" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;description_lines_count=3&amp;theme=light_github_repocard" />
-      <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;description_lines_count=3&amp;theme=light_github_repocard" alt="LumaRing" />
-    </picture>
-  </a>
+<a href="https://github.com/potatoQi/HarborStar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;card_width=480&amp;description_lines_count=2&amp;theme=dark_github_repocard" /><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;card_width=480&amp;description_lines_count=2&amp;theme=light_github_repocard" /><img width="47%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;card_width=480&amp;description_lines_count=2&amp;theme=light_github_repocard" alt="HarborStar" /></picture></a>&nbsp;&nbsp;
+<a href="https://github.com/potatoQi/LumaRing"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;card_width=480&amp;description_lines_count=2&amp;theme=dark_github_repocard" /><source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;card_width=480&amp;description_lines_count=2&amp;theme=light_github_repocard" /><img width="47%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;card_width=480&amp;description_lines_count=2&amp;theme=light_github_repocard" alt="LumaRing" /></picture></a>
 </p>
