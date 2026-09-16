@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="146" viewBox="0 0 480 146" role="img" aria-labelledby="title desc">
+<title id="title">HarborStar</title>
+<desc id="desc">A digital city where agents act, collaborate, and deliver on your behalf. Stars: 3. Forks: 0.</desc>
+<style>text{font-family:Arial,"Liberation Sans",sans-serif}</style>
+<rect x=".5" y=".5" width="479" height="145" rx="4.5" fill="#ffffff" stroke="#d1d9e0"/>
+<g transform="translate(24,20)" fill="none" stroke="#59636e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2h12v12H5a2 2 0 0 0 0 4h10v-4M3 2v14a2 2 0 0 1 2-2M6 2v9"/></g>
+<text x="50" y="35" font-size="18" font-weight="600" fill="#0969da">HarborStar</text>
+<text x="24" y="64" font-size="15" fill="#59636e">A digital city where agents act, collaborate, and deliver on your</text>
+<text x="24" y="86" font-size="15" fill="#59636e">behalf</text>
+<g transform="translate(24,110)" fill="none" stroke="#9a6700" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 1.5 11.3 6.2 16.5 7 12.7 10.7 13.6 16 9 13.5 4.4 16 5.3 10.7 1.5 7 6.7 6.2Z"/></g>
+<text x="48" y="124" font-size="14" fill="#59636e">3</text>
+</svg>
