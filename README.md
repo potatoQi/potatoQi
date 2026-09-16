@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://error666.top">Qixing Zhou</a> (potatoQi)</h1>
+Hey, nice to meet you!
 
 Curiosity drives me — I’m fascinated by intelligence, creation, and everything that genuinely excites me.
 
