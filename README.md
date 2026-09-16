@@ -1,4 +1,4 @@
-Hey, nice to meet you!
+<p>Hey, nice to meet you! <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/hand-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/hand-light.svg" /><img src="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/icons/hand-light.svg" width="18" height="18" align="absmiddle" alt="" /></picture></p>
 
 Curiosity drives me — I’m fascinated by intelligence, creation, and everything that genuinely excites me.
 
