@@ -12,7 +12,11 @@ Motto: Work hard, stay kind, and stay curious.
 
 <p>
   <a href="https://github.com/LiberCoders/FeatureBench">
-    <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;description_lines_count=3" alt="FeatureBench" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;description_lines_count=3&amp;theme=dark_github_repocard" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;description_lines_count=3&amp;theme=light_github_repocard" />
+      <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=LiberCoders&amp;repo=FeatureBench&amp;description_lines_count=3&amp;theme=light_github_repocard" alt="FeatureBench" />
+    </picture>
   </a>
 </p>
 
@@ -20,9 +24,17 @@ Motto: Work hard, stay kind, and stay curious.
 
 <p>
   <a href="https://github.com/potatoQi/HarborStar">
-    <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;description_lines_count=3" alt="HarborStar" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;description_lines_count=3&amp;theme=dark_github_repocard" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;description_lines_count=3&amp;theme=light_github_repocard" />
+      <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=HarborStar&amp;description_lines_count=3&amp;theme=light_github_repocard" alt="HarborStar" />
+    </picture>
   </a>
   <a href="https://github.com/potatoQi/LumaRing">
-    <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;description_lines_count=3" alt="LumaRing" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;description_lines_count=3&amp;theme=dark_github_repocard" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;description_lines_count=3&amp;theme=light_github_repocard" />
+      <img width="48%" align="top" src="https://github-stats-extended.vercel.app/api/pin/?username=potatoQi&amp;repo=LumaRing&amp;description_lines_count=3&amp;theme=light_github_repocard" alt="LumaRing" />
+    </picture>
   </a>
 </p>
