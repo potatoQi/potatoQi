@@ -2,7 +2,7 @@
 
 Curiosity drives me — I’m fascinated by intelligence, creation, and everything that genuinely excites me.
 
-Interested in **Agent, RL, World Model, and building systems that turn ideas into working reality**.
+<p>Interested in <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/text/interests-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/text/interests-light.svg" /><img src="https://raw.githubusercontent.com/potatoQi/potatoQi/main/assets/text/interests-light.svg" width="620" height="24" align="top" alt="Agent, RL, World Model, and building systems that turn ideas into working reality." /></picture></p>
 
 Outside of research, I play the piano, run long distances, and make music when ideas overflow.
 
