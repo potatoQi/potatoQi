@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="146" viewBox="0 0 480 146" role="img" aria-labelledby="title desc">
 <title id="title">LumaRing</title>
-<desc id="desc">A small ring for switching apps, windows, and browser tabs on macOS.. Stars: 23. Forks: 1.</desc>
+<desc id="desc">A small ring for switching apps, windows, and browser tabs on macOS.. Stars: 24. Forks: 1.</desc>
 <style>text{font-family:Arial,"Liberation Sans",sans-serif}</style>
 <rect x=".5" y=".5" width="479" height="145" rx="4.5" fill="#0d1117" stroke="#3d444d"/>
 <g transform="translate(24,20)" fill="none" stroke="#a6adb6" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2h12v12H5a2 2 0 0 0 0 4h10v-4M3 2v14a2 2 0 0 1 2-2M6 2v9"/></g>
@@ -10,7 +10,7 @@
 <circle cx="30.0" cy="119" r="6" fill="#f05138"/>
 <text x="44.0" y="124" font-size="14" fill="#a6adb6">Swift</text>
 <g transform="translate(96.3438,110)" fill="none" stroke="#e3b341" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M9 1.5 11.3 6.2 16.5 7 12.7 10.7 13.6 16 9 13.5 4.4 16 5.3 10.7 1.5 7 6.7 6.2Z"/></g>
-<text x="120.344" y="124" font-size="14" fill="#a6adb6">23</text>
+<text x="120.344" y="124" font-size="14" fill="#a6adb6">24</text>
 <g transform="translate(157.906,110)" fill="none" stroke="#3fb950" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="4" cy="3.5" r="2"/><circle cx="14" cy="3.5" r="2"/><circle cx="9" cy="15" r="2"/><path d="M4 5.5v2A2.5 2.5 0 0 0 6.5 10H9m5-4.5v2a2.5 2.5 0 0 1-2.5 2.5H9v3"/></g>
 <text x="181.906" y="124" font-size="14" fill="#a6adb6">1</text>
 </svg>
