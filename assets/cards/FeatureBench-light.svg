@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="168" viewBox="0 0 480 168" role="img" aria-labelledby="title desc">
 <title id="title">FeatureBench</title>
-<desc id="desc">[ICLR 2026] Official Implementation of &quot;FeatureBench: Benchmarking Agentic Coding for Complex Feature Development&quot; . Stars: 100. Forks: 13.</desc>
+<desc id="desc">[ICLR 2026🔥] Official Implementation of &quot;FeatureBench: Benchmarking Agentic Coding for Complex Feature Development&quot; . Stars: 100. Forks: 13.</desc>
 <style>text{font-family:Arial,"Liberation Sans",sans-serif}</style>
 <rect x=".5" y=".5" width="479" height="167" rx="4.5" fill="#ffffff" stroke="#d1d9e0"/>
 <g transform="translate(24,20)" fill="none" stroke="#59636e" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 2h12v12H5a2 2 0 0 0 0 4h10v-4M3 2v14a2 2 0 0 1 2-2M6 2v9"/></g>
 <text x="50" y="35" font-size="18" font-weight="600" fill="#0969da">FeatureBench</text>
-<text x="24" y="64" font-size="15" fill="#59636e">[ICLR 2026] Official Implementation of &quot;FeatureBench:</text>
+<text x="24" y="64" font-size="15" fill="#59636e">[ICLR 2026🔥] Official Implementation of &quot;FeatureBench:</text>
 <text x="24" y="86" font-size="15" fill="#59636e">Benchmarking Agentic Coding for Complex Feature</text>
 <text x="24" y="108" font-size="15" fill="#59636e">Development&quot;</text>
 <circle cx="30.0" cy="141" r="6" fill="#3572a5"/>
